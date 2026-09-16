@@ -1,1 +1,1 @@
-# AI-ML-projiects
+# AI-ML-projiect
